@@ -22,6 +22,8 @@ public class MathUtilLive {
         System.out.println("6! = 720; actual : " + result);
         result=MathUtil.GetFactoriall(1);
         System.out.println("1! = 1; actual : " + result);
+        System.out.println("hello :#");
+        /// thôi không sửa đâu :< đừng up nửa
     }
     
 }
